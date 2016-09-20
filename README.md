@@ -16,7 +16,7 @@ Of course!! Your contribution are welcome. Send me a Pull Request.
 References
 ==========
 
-There some references that I found useful:
+Here some references that I found useful:
 
 - https://arxiv.org/pdf/1506.04082.pdf
 - https://pentesterlab.com/exercises/web_for_pentester_II/course
