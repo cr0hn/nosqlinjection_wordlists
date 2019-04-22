@@ -1,7 +1,7 @@
 true, $where: '1 == 1'
 , $where: '1 == 1'
 $where: '1 == 1'
-', $where: '1 == 1'
+', $where: '1 == 1
 1, $where: '1 == 1'
 { $ne: 1 }
 ', $or: [ {}, { 'a':'a
