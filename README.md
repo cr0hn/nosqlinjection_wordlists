@@ -3,6 +3,11 @@ What's this repo?
 
 This repo aims to contain wordlists with payloads for NoSQL Injections.
 
+Support this project
+====================
+
+Support this project (to solve issues, new features...) by applying the Github "Sponsor" button.
+
 What's contains currently?
 ==========================
 
